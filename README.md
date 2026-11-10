@@ -1,4 +1,6 @@
-# Site web Matis Léger — Courtier hypothécaire
+# Hypostratege-ml
+
+## Site web Matis Léger — Courtier hypothécaire
 
 Site **statique** (HTML/CSS/JS, sans serveur ni base de données), prêt à être hébergé gratuitement sur **GitHub Pages** et branché sur votre domaine personnalisé.
 
